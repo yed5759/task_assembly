@@ -1,0 +1,1 @@
+/usr/bin/cc  -no-pie -g CMakeFiles/untitled8.dir/main.c.o CMakeFiles/untitled8.dir/func_select.s.o CMakeFiles/untitled8.dir/pstring.s.o -o untitled8 
