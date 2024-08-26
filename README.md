@@ -1,8 +1,8 @@
 
-###########
+#
 computer architacture task 1
 learning assembly
-###########
+
 
 This is a task in assembly I had been given in the course of computer architacture.
 
